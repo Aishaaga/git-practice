@@ -1,2 +1,7 @@
 "# once upon a time" 
+<<<<<<< HEAD
 "They lived happily ever after." 
+=======
+"They never saw each other again." 
+"test: git GUI" 
+>>>>>>> branch2
